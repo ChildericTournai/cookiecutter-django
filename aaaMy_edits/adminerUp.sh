@@ -1,0 +1,1 @@
+docker run -d --link pgdb:devdb -p 8080:8080 adminer
